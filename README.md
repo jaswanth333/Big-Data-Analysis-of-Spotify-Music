@@ -1,7 +1,5 @@
 # ECE552 Final Project: Big-Data-Analysis-of-Spotify-Music
-
-<center>
-
+<div align="center">
 Abhishek Godavarti
     
 Bhargav Teja Jakku
@@ -19,7 +17,7 @@ December 13, 2022
 <br><br><strong>Under the guidance of:</strong>
 
 Dr. Erton Boci
-</center>
+</div>
 
 ---
 
