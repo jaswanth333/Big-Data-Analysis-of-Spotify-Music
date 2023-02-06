@@ -1,9 +1,9 @@
 # ECE552 Final Project: Big-Data-Analysis-of-Spotify-Music
 <div align="center">
     
-Abhishek Godavarti<br>Bhargav Teja Jakku<br>Jaswanth Kumar Kunku
+Abhishek Godavarti<br><br>Bhargav Teja Jakku<br><br>Jaswanth Kumar Kunku
 
-<br>
+<br><br>
 
 ECE-552: Big Data Analysis
 
