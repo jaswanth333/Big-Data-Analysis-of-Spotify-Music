@@ -1,7 +1,6 @@
 # ECE552 Final Project: Big-Data-Analysis-of-Spotify-Music
 
 <center>
-<strong>Predicting Optimal Bike Demand based on Seoul Bike Sharing Data</strong><br><br><br>
 
 Abhishek Godavarti
 
