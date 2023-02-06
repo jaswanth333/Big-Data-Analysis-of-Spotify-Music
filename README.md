@@ -3,12 +3,10 @@
 <center>
 
 Abhishek Godavarti
-
 Bhargav Teja Jakku
-
 Jaswanth Kumar Kunku
 
-<br><br>
+<br>
 
 ECE-552: Big Data Analysis
 
@@ -25,7 +23,7 @@ Dr. Erton Boci
 
 
 ## Project Goals
-- **Identify and discover patterns in the data using relevant spark big data libraries available in python and accurately forecast the classification of highly popular songs from the less popular ones.
+- Identify and discover patterns in the data using relevant spark big data libraries available in python and accurately forecast the classification of highly popular songs from the less popular ones.
 
 
 ## Data Set
