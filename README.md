@@ -11,7 +11,7 @@ George Mason University
 
 December 13, 2022
 
-<br><br><strong>Under the guidance of:</strong>
+<br><strong>Under the guidance of:</strong>
 
 Dr. Erton Boci
 </div>
